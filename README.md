@@ -6,10 +6,9 @@ Sou um desenvolvedor em formação, estudando programação por meio de projetos
 
 ## 🛠️ Tecnologias e ferramentas
 
-- HTML5
-- CSS3
-- Python
-- Git e GitHub
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,python,git,github" alt="HTML5, CSS3, Python, Git e GitHub" />
+</p>
 
 ## 🚀 Projetos em destaque
 
