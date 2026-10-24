@@ -1,16 +1,27 @@
-## Hi there 👋
+# Olá! Eu sou o Fernandes 👋
 
-<!--
-**fernandescode/fernandescode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Desenvolvedor em formação
 
-Here are some ideas to get you started:
+Sou um desenvolvedor em formação, estudando programação por meio de projetos práticos. Meu objetivo é desenvolver minhas habilidades, aprender novas tecnologias e construir soluções cada vez melhores.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologias e ferramentas
+
+- HTML5
+- CSS3
+- Python
+- Git e GitHub
+
+## 🚀 Projetos em destaque
+
+### QR Code Component
+Componente responsivo desenvolvido com HTML e CSS.
+
+- [Ver repositório no GitHub](https://github.com/fernandescode/qr-code-component)
+- [Ver site publicado](https://fernandescode.github.io/qr-code-component/)
+
+### Organizador de Tarefas
+Projeto em Python para praticar lógica de programação e persistência de dados.
+
+## 📚 Aprendizado contínuo
+
+Estou evoluindo um projeto de cada vez, documentando meu aprendizado e buscando melhorar continuamente.
