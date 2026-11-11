@@ -1,26 +1,30 @@
 # Olá! Eu sou o Fernandes 👋
 
-### Desenvolvedor em formação
+### Desenvolvedor em formação | Python e Django
 
-Sou um desenvolvedor em formação, estudando programação por meio de projetos práticos. Meu objetivo é desenvolver minhas habilidades, aprender novas tecnologias e construir soluções cada vez melhores.
+Estudo desenvolvimento backend com Python e Django por meio de projetos práticos. Atualmente, desenvolvo o **Precifica Confeitaria**, um sistema para ajudar pequenos negócios de confeitaria a calcular custos de produção e definir preços de venda.
 
 ## 🛠️ Tecnologias e ferramentas
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,python,git,github" alt="HTML5, CSS3, Python, Django, Git e GitHub" />
+  <img src="https://skillicons.dev/icons?i=python,django,git,github,html,css" alt="Python, Django, Git, GitHub, HTML5 e CSS3" />
 </p>
 
 ## 🚀 Projetos em destaque
 
-### QR Code Component
-Componente responsivo desenvolvido com HTML e CSS.
+### Precifica Confeitaria
 
-- [Ver repositório no GitHub](https://github.com/fernandescode/qr-code-component)
-- [Ver site publicado](https://fernandescode.github.io/qr-code-component/)
+**Em desenvolvimento.** Estou construindo o backend com Django e já implementei o cadastro de insumos pelo painel administrativo.
 
 ### Organizador de Tarefas
-Projeto em Python para praticar lógica de programação e persistência de dados.
 
-## 📚 Aprendizado contínuo
+Aplicação de terminal em Python para adicionar, listar, editar e excluir tarefas, com armazenamento em arquivo.
 
-Estou evoluindo um projeto de cada vez, documentando meu aprendizado e buscando melhorar continuamente.
+- [Ver repositório](https://github.com/fernandescode/organizador-tarefas)
+
+### QR Code Component
+
+Componente responsivo desenvolvido com HTML e CSS como desafio do Frontend Mentor.
+
+- [Ver repositório](https://github.com/fernandescode/qr-code-component)
+- [Ver demonstração](https://fernandescode.github.io/qr-code-component/)
